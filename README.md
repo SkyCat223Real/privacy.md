@@ -41,7 +41,7 @@ Die oben genannten Daten sind notwendig, um:
 Für die Discord Bot Verification werden folgende Dokumente bereitgestellt:
 
 - **Privacy Policy:** [[privacy.md]](https://github.com/SkyCat223Real/privacy.md/blob/main/privacy.md)  
-- **Terms of Service:** [LINK EINFÜGEN]
+- **Terms of Service:** [[tos.md]](https://github.com/SkyCat223Real/privacy.md/blob/main/tos)
 
 (Beide Dokumente sind öffentlich abrufbar und erklären die Datennutzung.)
 
