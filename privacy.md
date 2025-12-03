@@ -1,54 +1,69 @@
-Privacy Policy for SkyRasten - GlobalChat
+# Privacy Policy – SkyRasten Development Bots
 
-Last Updated: 02.12.2025
+**Last Updated:** 02.12.2025
 
-SkyRasten - GlobalChat ("the Bot") is operated by SkyRasten Development.
-This Privacy Policy explains what data the Bot collects and how it is used.
+This Privacy Policy applies to all current and future bots operated by **SkyRasten Development**, regardless of name or platform.
 
-1. Data Collected
+---
 
-The Bot may collect the following information:
+## 1. Data Collected
 
-Discord User IDs
+The bots may collect the following information:
 
-Server IDs
+- Discord User IDs  
+- Server IDs  
+- Message content only when required for specific features (remove internally if not applicable)  
+- Interaction data (commands, buttons, menus)
 
-Message content only when required for specific bot features (optional – entferne, wenn nicht zutreffend)
+The bots do **not** collect unnecessary personal data.
 
-Interaction data (commands, button clicks)
+---
 
-2. How Data Is Used
+## 2. How Data Is Used
 
-Data is used only to:
+Data is used solely to:
 
-Provide bot functionality
+- Provide bot functionality  
+- Improve performance and user experience  
+- Maintain security and prevent abuse (spam protection, moderation systems)
 
-Improve performance and user experience
+Data is **never sold, shared, or used for advertising**.
 
-Prevent abuse (rate limits, moderation features)
+---
 
-3. Data Storage
+## 3. Data Storage
 
-Data is stored securely and only as long as necessary.
+- Data is stored securely and only as long as needed for operation.  
+- Users may request deletion of their data at any time.  
+- No stored data is shared with third parties.
 
-No personal data is shared or sold to third parties.
+---
 
-4. Third-Party Services
+## 4. Third-Party Services
 
-The bot may use the Discord API to operate.
-All actions comply with the Discord Terms of Service.
+The bots use the **Discord API** to function.  
+All actions comply with:
 
-5. User Rights
+- Discord Terms of Service  
+- Discord Developer Policy  
+- Discord Privacy Policy  
 
-Users can request:
+No additional third-party services are used unless explicitly stated elsewhere.
 
-Deletion of their stored data
+---
 
-Information about stored data
+## 5. User Rights
 
-To request this, contact: skycat223yt@gmail.com
+Users may request:
 
-6. Contact
+- Deletion of their stored data  
+- Information about which data is stored  
 
-If you have questions, you can reach us at:
-skycat223_
+Requests can be sent to: **skycat223yt@gmail.com**
+
+---
+
+## 6. Contact
+
+For questions or concerns regarding this Privacy Policy, contact:  
+**SkyRasten Development – skycat223yt@gmail.com**
